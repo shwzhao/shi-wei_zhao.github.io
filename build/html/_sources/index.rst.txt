@@ -1,10 +1,10 @@
-.. GitPage documentation master file, created by
-   sphinx-quickstart on Fri Sep 13 12:53:57 2024.
+.. GitPages documentation master file, created by
+   sphinx-quickstart on Fri Sep 13 14:21:41 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to GitPage's documentation!
-===================================
+Welcome to GitPages's documentation!
+====================================
 
 .. toctree::
    :maxdepth: 2
