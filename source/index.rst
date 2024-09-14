@@ -13,9 +13,9 @@ Welcome to GitPages's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Genome
+   content/Genome
 
-   bulk RNA-seq
+   content/bulk-RNA-seq
 
 Indices and tables
 ==================
